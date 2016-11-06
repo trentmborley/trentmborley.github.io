@@ -27,6 +27,23 @@ header {
   color: #fff;
 }
 
+.section-title {
+  float: left;
+}
+
+.title-separator {
+  float: left;
+  font-size: 18px;
+  height: 64px;
+  line-height: 64px;
+  margin: 0 0.5em 0 0.5em;
+  width: .5em;
+}
+
+span {
+  font-size: 100%;
+}
+
 .card {
   padding: 10px 20px 10px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
