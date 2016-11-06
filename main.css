@@ -9,6 +9,23 @@ header {
   top: -72px;
 }
 
+.header-wrapper {
+  height: 56px;
+  left: 56px;
+  right: 56px;
+  top: 0;
+  z-index: 2;
+  position: fixed;
+}
+
+.header-title {
+  font-size: 18px;
+  line-height: 56px;
+  width: 100%;
+  color: #fff;
+  font-weight: 400;
+}
+
 .card {
   padding: 10px 20px 10px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
