@@ -19,10 +19,9 @@ header {
   position: fixed;
 }
 
-h6 {
-  text-align:"center";
+h3 {
+  text-align:center;
   color:#fff;
-  font-size: 30px;
 }
 
 .header-title {
