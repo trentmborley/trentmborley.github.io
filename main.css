@@ -24,16 +24,22 @@ h3 {
   text-align:center;
   -webkit-transition: color 2s; /* Safari */
   transition: color 2s;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
 }
 
 a>h3 {
   color:white;
-  -webkit-transition: color 1s; /* Safari */
-  transition: color 1s;
+  -webkit-transition: color 0.5s; /* Safari */
+  transition: color 0.5s;
+  text-decoration: none;
 }
 
 a>h3:hover {
-    color: red;
+    color: #90CAF9;
     text-decoration: none;
 }
 
