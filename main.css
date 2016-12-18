@@ -29,6 +29,7 @@ h3 {
 
 a {
   text-decoration: none;
+  background-color: transparent;
 }
 
 a>h3 {
@@ -36,11 +37,13 @@ a>h3 {
   -webkit-transition: color 0.5s; /* Safari */
   transition: color 0.5s;
   text-decoration: none;
+  background-color: transparent;
 }
 
 a>h3:hover {
     color: #90CAF9;
     text-decoration: none;
+  background-color: transparent;
 }
 
 .header-title {
